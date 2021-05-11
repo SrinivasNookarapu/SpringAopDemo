@@ -7,7 +7,8 @@ public class BusinessLogic {
 	
 	public void saveEmployee() {
 		System.out.println("Employee Save");
-		int num = 10 / 0;
+		// Arthmetic Exception
+		//int num = 10 / 0;
 	}
 	
 
